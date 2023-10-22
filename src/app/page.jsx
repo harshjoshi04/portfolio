@@ -20,7 +20,7 @@ export default function Home() {
       });
       let t3 = gsap.timeline({
         scrollTrigger: {
-          trigger: "#projectSection",
+          trigger: ".projectSection",
           scroll: "body",
         },
       });
