@@ -318,9 +318,9 @@ export default function About() {
             </TabPanels>
           </Tabs>
         </div>
-        <section id="projectSection">
+        <div class="projectSection">
           <Project />
-        </section>
+        </div>
       </div>
     </div>
   );
